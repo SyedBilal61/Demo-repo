@@ -1,2 +1,3 @@
 # Demo-repo
-first repository as a begginer 
+First repository as a beginner 
+Author : Syed Bilal Hassan 
